@@ -16,4 +16,4 @@ git branch
 git checkout 
 git checkout hello // hello branch geçiş yapar
 
-git checkout -b yeni // 
+git checkout -b yeni // yeni bir branch oluşturur
