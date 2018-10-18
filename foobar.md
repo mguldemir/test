@@ -20,3 +20,9 @@ git checkout
 git checkout hello // hello branch geçiş yapar
 
 git checkout -b yeni // yeni bir branch oluşturur
+
+merge işlemi 
+
+master branch içindeyken
+git merge new
+git push origin master
